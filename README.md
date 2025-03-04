@@ -9,7 +9,7 @@
 🎵 Desenvolvendo ao som de ótimas músicas <br>
 ☕ Amo café <br>
 
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  <h1>Linguagens e Tecnologias que uso:</h1>
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">Linguagens e Tecnologias que uso:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
