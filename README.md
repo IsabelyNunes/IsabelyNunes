@@ -1,4 +1,4 @@
-
+<h1> Hi, I'm Isabely! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 ✨ Fazendo o que mais gosto: codar + beber café + ouvir música!✨ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 
@@ -11,10 +11,6 @@
 
  <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=pie&theme=radical" width="400px"/> </div>
 
-
 ### 🌎 Conecte-se comigo  
 [![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/IsabelyNunes).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IsabelyNunes)  
-
-
-
