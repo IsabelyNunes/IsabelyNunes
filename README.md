@@ -1,6 +1,6 @@
 <h1> Hi, I'm Isabely! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-✨ Doing what I love most: coding + drinking coffee + listening to music!✨
+✨ Doing what I love most:  coding + drinking coffee + listening to music!✨
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
 🌟 Passionate about technology. <br>
