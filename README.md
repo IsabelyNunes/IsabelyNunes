@@ -26,10 +26,19 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=isabelyNunes&show_icons=true&include_all_commits=true&theme=radical" alt="Isabely's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=compact&theme=radical" />
 
-## 🌐 Conecte-se comigo   
+## 🌐 Conecte-se comigo  
 
-[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/IsabelyNunes)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IsabelyNunes)  
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelynunes358@gmail.com)  
+<div style="display: flex; ">
+  <a href="https://instagram.com/IsabelyNunes">
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/IsabelyNunes">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:isabelynunes358@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</div>
+
 
  
