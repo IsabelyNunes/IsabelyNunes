@@ -29,10 +29,10 @@
 ## 🌐 Conecte-se comigo  
 
 <div style="display: flex; ">
-  <a href="https://instagram.com/IsabelyNunes">
+  <a href="https://instagram.com/__i.nunes">
     <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://linkedin.com/in/IsabelyNunes">
+  <a href="www.linkedin.com/in/isabely-nunes-6080582a5">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:isabelynunes358@gmail.com">
