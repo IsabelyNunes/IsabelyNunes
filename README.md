@@ -7,7 +7,7 @@
 🚀Cursando Ciência da Computação no <a href="https://www.ifsc.edu.br/web/campus-lages">IFSC - Lages </a> <br>
 🎓 Formada em Programação de Sistemas Industriais e Informática para internet. <br>
 🎵 Desenvolvendo ao som de ótimas músicas <br>
-☕ + 🐈 + 💻 = 💜 <br>
+☕ + 🐈 + 🎵 + 💻 = 💜 <br>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Linguagens e Tecnologias que uso:
 
