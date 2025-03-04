@@ -5,7 +5,7 @@
 <h2>💻 Sobre mim </h2>
 🌟 Apaixonada por tecnologia. <br>
 🚀Cursando Ciência da Computação <br>
-🎓 Formada em Porgramção de Sistemas Industriais e Informática para internet. <br>
+🎓 Formada em Programação de Sistemas Industriais e Informática para internet. <br>
 🎵 Desenvolvendo ao som de ótimas músicas <br>
 ☕ Amo café <br>
 
