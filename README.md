@@ -3,11 +3,11 @@
 ✨ Fazendo o que mais gosto: codar + beber café + ouvir música!✨
 
 <h2>💻 Sobre mim </h2>
-🌟 Apaixonada por tecnologia.
-🚀Cursando Ciência da Computação
-🎓 Formada em Porgramção de Sistemas Industriais e Informática para internet.
-🎵 Desenvolvendo ao som de ótimas músicas
-☕ Amo café
+# 🌟 Apaixonada por tecnologia.
+# 🚀Cursando Ciência da Computação
+# 🎓 Formada em Porgramção de Sistemas Industriais e Informática para internet.
+# 🎵 Desenvolvendo ao som de ótimas músicas
+# ☕ Amo café
 
 ### 🚀 Minhas Tecnologias  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
