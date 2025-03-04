@@ -7,7 +7,7 @@
 🚀Cursando Ciência da Computação no <a href="https://www.ifsc.edu.br/web/campus-lages">IFSC - Lages </a> <br>
 🎓 Formada em Programação de Sistemas Industriais e Informática para internet. <br>
 🎵 Desenvolvendo ao som de ótimas músicas <br>
-☕ Amo café <br>
+☕ + 🐈 = 💜 <br>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Linguagens e Tecnologias que uso:
 
@@ -26,7 +26,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=isabelyNunes&show_icons=true&include_all_commits=true&theme=radical" alt="Isabely's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=compact&theme=radical" />
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsY3Bsdzg5ZHZ2eG9hNGhlN3N0MXluY2N2ZWVqbjEzOW95NmNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eV6a9r6TrHswneqk2e/giphy.gif" width="60" margintop="80"> Conecte-se comigo  
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsY3Bsdzg5ZHZ2eG9hNGhlN3N0MXluY2N2ZWVqbjEzOW95NmNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eV6a9r6TrHswneqk2e/giphy.gif" width="60" margintop="80"> Conecte-se comigo:
 
 <div style="display: flex; ">
   <a href="https://instagram.com/__i.nunes">
