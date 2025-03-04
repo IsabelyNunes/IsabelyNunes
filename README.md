@@ -1,6 +1,6 @@
 <h1> Hi, I'm Isabely! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-✨ Fazendo o que mais gosto: codar + beber café + ouvir música!✨ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+✨ Fazendo o que mais gosto: codar + beber café + ouvir música!✨ 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim
 🌟 Apaixonada por tecnologia. <br>
@@ -9,7 +9,7 @@
 🎵 Desenvolvendo ao som de ótimas músicas <br>
 ☕ Amo café <br>
 
- ## 🛠️ Linguagens e Tecnologias:
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  Linguagens e Tecnologias que uso:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
