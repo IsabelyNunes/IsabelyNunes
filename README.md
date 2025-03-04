@@ -4,7 +4,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
 🚀 Studying Computer Science at <a href="https://www.ifsc.edu.br/web/campus-lages">IFSC - Lages </a> <br>
-🎓 Graduated in Industrial Systems Programming and Computer Science for the Internet. <br>
+🎓 Formada in Industrial Systems Programming and Informática para Internet. <br>
 ☕ + 🐈 + 🎵 + 💻 = 💜 <br>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages ​​and technologies I use:
