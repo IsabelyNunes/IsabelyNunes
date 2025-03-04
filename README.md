@@ -23,11 +23,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FF8C00?style=for-the-badge&logo=autodesk&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabelyNunes&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IsabelyNunes&theme=github_dark)
-
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=IsabelyNunes)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=isabelyNunes&show_icons=true&include_all_commits=true&theme=radical" alt="Isabely's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=compact&theme=radical" />
 
 
 ### 🌎 Conecte-se comigo  
