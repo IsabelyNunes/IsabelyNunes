@@ -27,6 +27,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=compact&theme=radical" />
 
 
-### 🌎 Conecte-se comigo  
-[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/IsabelyNunes).
+## 🌐 Conecte-se comigo  
+Me siga nas redes sociais e acompanhe meu trabalho!**  
+
+[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/IsabelyNunes)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IsabelyNunes)  
+ 
