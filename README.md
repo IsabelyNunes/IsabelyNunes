@@ -9,8 +9,8 @@
 🎵 Desenvolvendo ao som de ótimas músicas <br>
 ☕ Amo café <br>
 
-### 🚀 Minhas Tecnologias  
- <img fonte="https://img.shields.io/badge/HTML5-E34F26?style=para-o-emblema&logo=html5&logoColor=branco"/> <img fonte="https://img.shields.io/badge/CSS3-1572B6?style=para-o-emblema&logo=css3&logoColor=branco"/> <img fonte="https://img.shields.io/badge/PHP-777BB4?style=para-o-emblema&logo=php&logoColor=branco"/> <img fonte="https://img.shields.io/badge/Bootstrap-7952B3?style=para-o-emblema&logo=bootstrap&logoColor=branco"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=para-o-emblema&logo=javascript&logoColor=preto"/> <img src="https://img.shields.io/badge/React-61DAFB?style=para-o-emblema&logo=react&logoColor=preto"/> <img src="https://img.shields.io/badge/Node.js-339933?style=para-o-emblema&logo=nodedotjs&logoColor=branco"/> <img src="https://img.shields.io/badge/Python-3776AB?style=para-o-emblema&logo=python&logoColor=branco"/> 
+### 🚀 Linguagens que uso 
+ <img fonte="https://img.shields.io/badge/HTML5-E34F26?style=para-o-emblema&logo=html5&logoColor=branco"/> <img fonte="https://img.shields.io/badge/CSS3-1572B6?style=para-o-emblema&logo=css3&logoColor=purple"/> <img fonte="https://img.shields.io/badge/PHP-777BB4?style=para-o-emblema&logo=php&logoColor=branco"/> <img fonte="https://img.shields.io/badge/Bootstrap-7952B3?style=para-o-emblema&logo=bootstrap&logoColor=branco"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=para-o-emblema&logo=javascript&logoColor=preto"/> <img src="https://img.shields.io/badge/React-61DAFB?style=para-o-emblema&logo=react&logoColor=preto"/> <img src="https://img.shields.io/badge/Node.js-339933?style=para-o-emblema&logo=nodedotjs&logoColor=branco"/> <img src="https://img.shields.io/badge/Python-3776AB?style=para-o-emblema&logo=python&logoColor=branco"/> 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IsabelyNunes&show_icons=true&theme=radical" width="400px"/> </div>
 
