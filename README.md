@@ -1,15 +1,15 @@
 <h1> Hi, I'm Isabely! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-✨ Fazendo o que mais gosto: codar + beber café + ouvir música!✨ 
+✨ Doing what I love most: coding + drinking coffee + listening to music!✨
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim
-🌟 Apaixonada por tecnologia. <br>
-🚀Cursando Ciência da Computação no <a href="https://www.ifsc.edu.br/web/campus-lages">IFSC - Lages </a> <br>
-🎓 Formada em Programação de Sistemas Industriais e Informática para internet. <br>
-🎵 Desenvolvendo ao som de ótimas músicas <br>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
+🌟 Passionate about technology. <br>
+🚀Studying Computer Science at <a href="https://www.ifsc.edu.br/web/campus-lages">IFSC - Lages </a> <br>
+🎓 Graduated in Industrial Systems Programming and Computer Science for the Internet. <br>
+🎵 Developing to the sound of great music <br>
 ☕ + 🐈 + 🎵 + 💻 = 💜 <br>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Linguagens e Tecnologias que uso:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages ​​and technologies I use:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +25,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=compact&theme=radical" />
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsY3Bsdzg5ZHZ2eG9hNGhlN3N0MXluY2N2ZWVqbjEzOW95NmNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eV6a9r6TrHswneqk2e/giphy.gif" width="60" margintop="80"> Conecte-se comigo:
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsY3Bsdzg5ZHZ2eG9hNGhlN3N0MXluY2N2ZWVqbjEzOW95NmNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eV6a9r6TrHswneqk2e/giphy.gif" width="60" margintop="80"> Connect with me:
 
 <div style="display: flex; ">
   <a href="https://instagram.com/__i.nunes">
@@ -38,6 +38,3 @@
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </div>
-
-
- 
