@@ -4,7 +4,7 @@
 
 <h2>💻 Sobre mim </h2>
 🌟 Apaixonada por tecnologia. <br>
-🚀Cursando Ciência da Computação <br>
+🚀<p><em>Cursando Ciência da Computação no <a href="https://www.ifsc.edu.br/web/campus-lages">IFSC - Lages </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer <br>
 🎓 Formada em Programação de Sistemas Industriais e Informática para internet. <br>
 🎵 Desenvolvendo ao som de ótimas músicas <br>
 ☕ Amo café <br>
