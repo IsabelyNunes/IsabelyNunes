@@ -2,7 +2,7 @@
 
 ✨ Fazendo o que mais gosto: codar + beber café + ouvir música!✨ 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Um pouco mais sobre mim
 🌟 Apaixonada por tecnologia. <br>
 🚀Cursando Ciência da Computação no <a href="https://www.ifsc.edu.br/web/campus-lages">IFSC - Lages </a> <br>
 🎓 Formada em Programação de Sistemas Industriais e Informática para internet. <br>
