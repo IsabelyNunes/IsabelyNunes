@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Isabely! 🚀 </h1>  
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhzd3N3aW0yem5sZHJmd3pndjEybTl1OG9qOTJpNzJkNzNqeGs4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NBGRhPTl2p1dVmQdWZ/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemY4azB1ZGt3ZHJ4a21iOHBod2Mzd2o4ZG04MHFoZ3c4dmh3cmxwZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZdsQQ45fYSTeCr3iPZ/giphy.gif" width="50">
 </p>
 
 ✨ Doing what I love most:  coding + drinking coffee + listening to music!✨
