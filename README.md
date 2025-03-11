@@ -27,13 +27,13 @@
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsY3Bsdzg5ZHZ2eG9hNGhlN3N0MXluY2N2ZWVqbjEzOW95NmNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eV6a9r6TrHswneqk2e/giphy.gif" width="60" margintop="80"> Connect with me:
 
 <div style="display: flex; ">
-  <a href="https://instagram.com/__i.nunes">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
   <a href="www.linkedin.com/in/isabely-nunes-6080582a5">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:isabelynunes358@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://instagram.com/__i.nunes">
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
