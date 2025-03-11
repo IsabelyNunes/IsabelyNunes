@@ -23,7 +23,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=donut&theme=dark)](https://github.com/IsabelyNunes/github-readme-stats)
-![{Isabelynunes} GitHub stats](https://github-readme-stats.vercel.app/api?isabelyNunes={isabelyNunes}&show_icons=true&theme=dracula)
+![{usuario} GitHub stats](https://github-readme-stats.vercel.app/api?IsabelyNunes={usuario}&show_icons=true&theme=dracula)
 
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsY3Bsdzg5ZHZ2eG9hNGhlN3N0MXluY2N2ZWVqbjEzOW95NmNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eV6a9r6TrHswneqk2e/giphy.gif" width="60" margintop="80"> Connect with me:
