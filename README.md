@@ -22,6 +22,7 @@
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FF8C00?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasEllen26&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasEllen26&layout=donut)](https://github.com/DiasEllen26/github-readme-stats)
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsY3Bsdzg5ZHZ2eG9hNGhlN3N0MXluY2N2ZWVqbjEzOW95NmNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eV6a9r6TrHswneqk2e/giphy.gif" width="60" margintop="80"> Connect with me:
 
