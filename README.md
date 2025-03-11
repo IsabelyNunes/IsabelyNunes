@@ -21,8 +21,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FF8C00?style=for-the-badge&logo=autodesk&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=donut)](https://github.com/IsabelyNunes/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=donut&theme=dark)](https://github.com/IsabelyNunes/github-readme-stats)
+
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsY3Bsdzg5ZHZ2eG9hNGhlN3N0MXluY2N2ZWVqbjEzOW95NmNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eV6a9r6TrHswneqk2e/giphy.gif" width="60" margintop="80"> Connect with me:
 
