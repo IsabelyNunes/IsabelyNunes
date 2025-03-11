@@ -1,4 +1,7 @@
-<h1> Hi, I'm Isabely! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center"> Hi, I'm Isabely! 🚀 </h1>  
+<p align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</p>
 
 ✨ Doing what I love most:  coding + drinking coffee + listening to music!✨
 
