@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=donut&theme=dark)](https://github.com/IsabelyNunes/github-readme-stats)
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsY3Bsdzg5ZHZ2eG9hNGhlN3N0MXluY2N2ZWVqbjEzOW95NmNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eV6a9r6TrHswneqk2e/giphy.gif" width="60" margintop="80"> Let's Connect!:
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsY3Bsdzg5ZHZ2eG9hNGhlN3N0MXluY2N2ZWVqbjEzOW95NmNhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eV6a9r6TrHswneqk2e/giphy.gif" width="60" margintop="80"> Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabely-nunes-6080582a5)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelynunes358@gmail.com)
