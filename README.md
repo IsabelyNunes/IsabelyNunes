@@ -26,6 +26,7 @@
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FF8C00?style=for-the-badge&logo=autodesk&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=donut&theme=dark)](https://github.com/IsabelyNunes/github-readme-stats)
