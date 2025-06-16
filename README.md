@@ -15,7 +15,7 @@
 🤝 Focused on clear communication and efficient problem-solving. <br>
 📚 Growing my skills in tech and customer service with each challenge! <br>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Technologies I Use <br>
+### Languages and Technologies I Use <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
