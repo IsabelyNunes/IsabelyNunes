@@ -11,9 +11,9 @@
 🎓 Graduated in Industrial Systems Programming and Internet Informatics. <br>
 
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJuNWE0NG5leHB1YzBpcDFoY3V2ZzBlc3p5ZGdvczNwOHlwZ3prMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" width="50"> Working as a Support Analist at <a href="https://www.ndd.tech/">NDD</a> <br>
-🤝 Focused on clear communication and efficient problem-solving. <br>
-📚 Growing my skills in tech and customer service with each challenge! <br>
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJuNWE0NG5leHB1YzBpcDFoY3V2ZzBlc3p5ZGdvczNwOHlwZ3prMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" width="50"> Working as Implementation Technician a <a href="https://www.ndd.tech/">NDD</a> <br>
+⚙️ System implementation focused on quality, clarity, and structured processes. <br>
+📚 Constantly developing technical skills through hands-on experience. <br>
 
 ### Languages and Technologies I Use <br>
 
